@@ -1,0 +1,47 @@
+1- 
+a) 
+nameserver 127.0.1.1
+search eduroam.uminho.pt
+
+Serve para configuração do DNS do sistema operativo.
+
+b)
+google.com
+2a00:1450:4003:809::2004
+
+google.pt
+2a00:1450:4003:809::2003
+
+c)
+ccg.pt.
+ns3.ccg.pt.
+ns1.ccg.pt.
+
+pt.
+curiosity.dns.pt.
+
+.
+a.root-servers.net.
+
+d)
+Sim. Não
+
+e)
+80.172.230.24
+Sim. A flag RA está ativada para o servidor primário.
+
+f)
+mail1.presidencia.pt
+
+g)
+canonical name: wildcard.whitehouse.gov.edgekey.net
+canonical name: e4036.dscb.akamaiedge.net
+
+ipv4: 23.45.236.110
+
+h)
+Sim.
+org-name: RCCN Fundacao para a Ciencia e a Tecnologia, I.P., PT
+mail exchanger: app01.fccn.pt
+E-mail: secretaria@fccn.pt
+phone: +351 218 440 100
